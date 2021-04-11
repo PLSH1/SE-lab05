@@ -1,6 +1,6 @@
-/* This is */
-#include <iostream>
 
+#include <iostream>
+/* This is */
 using namespace std;
 
 int main()
@@ -13,4 +13,6 @@ c = a+b;
 cout << "a + b =" << c << endl;
 c = a-b;
 cout << "a - b =" << c << endl;
+c = a*b;
+cout << "a * b =" << c << endl;
 }
